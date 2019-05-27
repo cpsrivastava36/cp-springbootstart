@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Cp Srping Boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo
+Implementation-Vendor-Id: io.cp.sprinboot.quickstart
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/cp-springboo
+ tstart/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
